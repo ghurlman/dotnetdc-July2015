@@ -1,0 +1,13 @@
+﻿{
+    "AppSettings": {
+        "DocumentDBEndpoint": "https://dotnetdc-demo.documents.azure.com:443/",
+        "DocumentDBAuthKey": "rEBc9EIGLanxIEcdTl2WEkfA + qVz7ntdW2GutDqtmChBppl4loq4z7waOoaZyO9zMp98skvrmf0S4zpwKc22uw == ",
+        "RavenDBEndpoint": "",
+        "RavenDBApiKey":  ""
+    }
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;"
+        }
+    }
+}
