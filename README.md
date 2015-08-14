@@ -1,4 +1,4 @@
-# dotnetdc-July2015
+# .NET DC July 2015
 Code used in my .NET DC user group presentation on NoSQL databases (mostly RavenDB) on July 21, 2015
 
 # License
